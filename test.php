@@ -1,5 +1,11 @@
 <?php 
 
-echo "Hello world"
+$x = 100;
+
+echo $x;
+
+echo "Hello world";
+
+
 
 ?>
