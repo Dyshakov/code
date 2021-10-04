@@ -43,11 +43,11 @@ else
 
 ```html
 <form method = "POST" action = "/sign_up.php">
-		<input type="text" placeholder="Ваш логин" name="login">
-		<br>
-		<input type="text" placeholder="Ваш пароль" name="password">
-		<br>
-		<input type="submit" value="Отправить">
+	<input type="text" placeholder="Ваш логин" name="login">
+	<br>
+	<input type="text" placeholder="Ваш пароль" name="password">
+	<br>
+	<input type="submit" value="Отправить">
 </form>
 ```
 
